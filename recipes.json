@@ -1,0 +1,2216 @@
+[
+  {
+    "name": "baked beans",
+    "ingredients": ["black bean", "furnace"]
+  },
+  {
+    "name": "baked sweet potato",
+    "ingredients": ["sweet potato", "furnace"]
+  },
+  {
+    "name": "baked yam",
+    "ingredients": ["yam", "furnace"]
+  },
+  {
+    "name": "caramel",
+    "ingredients": ["sugar", "furnace"]
+  },
+  {
+    "name": "cooked anchovy",
+    "ingredients": ["anchovy", "furnace"]
+  },
+  {
+    "name": "cooked bacon",
+    "ingredients": ["bacon", "furnace"]
+  },
+  {
+    "name": "cooked calamari",
+    "ingredients": ["calamari", "furnace"]
+  },
+  {
+    "name": "cooked calamari",
+    "ingredients": ["glowing calamari", "furnace"]
+  },
+  {
+    "name": "cooked shrimp",
+    "ingredients": ["shrimp", "furnace"]
+  },
+  {
+    "name": "cooked tuna",
+    "ingredients": ["tuna", "furnace"]
+  },
+  {
+    "name": "molasses",
+    "ingredients": ["sugar cane", "furnace"]
+  },
+  {
+    "name": "popcorn",
+    "ingredients": ["corn", "furnace"]
+  },
+  {
+    "name": "raisins",
+    "ingredients": ["grape", "furnace"]
+  },
+  {
+    "name": "toast",
+    "ingredients": ["bread", "furnace"]
+  },
+  {
+    "name": "apple juice",
+    "ingredients": ["apple", "glass bottle", "all purpose food press"]
+  },
+  {
+    "name": "cranberry juice",
+    "ingredients": ["all purpose food press", "cranberry", "glass bottle"]
+  },
+  {
+    "name": "grape juice",
+    "ingredients": ["all purpose food press", "grape", "glass bottle"]
+  },
+  {
+    "name": "melon juice",
+    "ingredients": ["all purpose food press", "honeydew", "glass bottle"]
+  },
+  {
+    "name": "melon juice",
+    "ingredients": ["all purpose food press", "cantaloupe", "glass bottle"]
+  },
+  {
+    "name": "melon juice",
+    "ingredients": ["all purpose food press", "melon slice", "glass bottle"]
+  },
+  {
+    "name": "orange juice",
+    "ingredients": ["all purpose food press", "orange", "glass bottle"]
+  },
+  {
+    "name": "pineapple juice",
+    "ingredients": ["all purpose food press", "pineapple", "glass bottle"]
+  },
+  {
+    "name": "saguaro juice",
+    "ingredients": ["all purpose food press", "saguaro", "glass bottle"]
+  },
+  {
+    "name": "tomato juice",
+    "ingredients": ["all purpose food press", "tomato", "glass bottle"]
+  },
+  {
+    "name": "apricot jam",
+    "ingredients": ["apricot", "sugar", "cooking pot"]
+  },
+  {
+    "name": "blackberry jam",
+    "ingredients": ["blackberry", "sugar", "cooking pot"]
+  },
+  {
+    "name": "blueberry jam",
+    "ingredients": ["blueberry", "sugar", "cooking pot"]
+  },
+  {
+    "name": "cherry jam",
+    "ingredients": ["cherry", "sugar", "cooking pot"]
+  },
+  {
+    "name": "elderberry jam",
+    "ingredients": ["elderberry", "sugar", "cooking pot"]
+  },
+  {
+    "name": "grape jam",
+    "ingredients": ["grape", "sugar", "cooking pot"]
+  },
+  {
+    "name": "peach jam",
+    "ingredients": ["peach", "sugar", "cooking pot"]
+  },
+  {
+    "name": "raspberry jam",
+    "ingredients": ["raspberry", "sugar", "cooking pot"]
+  },
+  {
+    "name": "strawberry jam",
+    "ingredients": ["strawberry", "sugar", "cooking pot"]
+  },
+  {
+    "name": "banana smoothie",
+    "ingredients": ["ice", "glass bottle", "banana", "milk"]
+  },
+  {
+    "name": "strawberry smoothie",
+    "ingredients": ["ice", "glass bottle", "strawberry", "milk"]
+  },
+  {
+    "name": "mango ice cream",
+    "ingredients": ["mango", "sugar", "egg", "cooking pot", "milk"]
+  },
+  {
+    "name": "pecan ice cream",
+    "ingredients": ["pecan", "sugar", "egg", "cooking pot", "milk"]
+  },
+  {
+    "name": "strawberry ice cream",
+    "ingredients": ["strawberry", "sugar", "egg", "cooking pot", "milk"]
+  },
+  {
+    "name": "vanilla ice cream",
+    "ingredients": ["vanilla", "sugar", "egg", "cooking pot", "milk"]
+  },
+  {
+    "name": "apple pie",
+    "ingredients": ["apple", "flour", "dough", "sugar", "egg", "frying pan"]
+  },
+  {
+    "name": "cherry pie",
+    "ingredients": ["cherry", "flour", "dough", "sugar", "egg", "frying pan"]
+  },
+  {
+    "name": "pecan pie",
+    "ingredients": ["pecan", "flour", "dough", "sugar", "egg", "frying pan"]
+  },
+  {
+    "name": "rhubarb pie",
+    "ingredients": ["rhubarb", "flour", "dough", "sugar", "egg", "frying pan"]
+  },
+  {
+    "name": "paprika",
+    "ingredients": ["chile pepper", "mortar and pestle"]
+  },
+  {
+    "name": "salt",
+    "ingredients": ["water", "furnace"]
+  },
+  {
+    "name": "olive oil",
+    "ingredients": ["olive", "olive", "all purpose food press"]
+  },
+  {
+    "name": "cheese",
+    "ingredients": ["cooking pot", "salt", "milk"]
+  },
+  {
+    "name": "flour",
+    "ingredients": ["corn", "corn"]
+  },
+  {
+    "name": "flour",
+    "ingredients": ["oats", "oats"]
+  },
+  {
+    "name": "flour",
+    "ingredients": ["wheat", "wheat"]
+  },
+  {
+    "name": "flour",
+    "ingredients": ["barley", "barley"]
+  },
+  {
+    "name": "butter",
+    "ingredients": ["cooking pot", "salt", "all purpose food press", "milk"]
+  },
+  {
+    "name": "noodle",
+    "ingredients": ["cooking pot", "salt", "flour", "water"]
+  },
+  {
+    "name": "tofu",
+    "ingredients": ["cooking pot", "soybeans", "water"]
+  },
+  {
+    "name": "chocolate",
+    "ingredients": ["cooking pot", "cocoa beans", "butter"]
+  },
+  {
+    "name": "tortilla",
+    "ingredients": ["flour", "frying pan", "water"]
+  },
+  {
+    "name": "soy sauce",
+    "ingredients": ["soybeans", "all purpose food press", "water"]
+  },
+  {
+    "name": "dough",
+    "ingredients": ["cooking pot", "flour", "water"]
+  },
+  {
+    "name": "ravioli",
+    "ingredients": ["noodle", "cheese"]
+  },
+  {
+    "name": "salsa",
+    "ingredients": ["tomato", "chile pepper", "salt", "lime", "tomatillo"]
+  },
+  {
+    "name": "artichoke dip",
+    "ingredients": ["artichoke", "cheese"]
+  },
+  {
+    "name": "pepperoni",
+    "ingredients": ["raw beef", "raw porkchop", "chile pepper", "paprika"]
+  },
+  {
+    "name": "coffee",
+    "ingredients": ["glass bottle", "coffee beans", "all purpose food press"]
+  },
+  {
+    "name": "lemonade",
+    "ingredients": ["glass bottle", "all purpose food press", "lemon"]
+  },
+  {
+    "name": "limeade",
+    "ingredients": ["glass bottle", "all purpose food press", "lemon", "lime"]
+  },
+  {
+    "name": "soy milk",
+    "ingredients": ["soybeans", "glass bottle", "all purpose food press"]
+  },
+  {
+    "name": "kale smoothie",
+    "ingredients": [
+      "ice",
+      "yoghurt",
+      "mango",
+      "kale",
+      "glass bottle",
+      "tomato",
+      "milk"
+    ]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "bell pepper"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "blackberry"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "blueberry"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "cantaloupe"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "cranberry"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "currant"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "elderberry"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "grape"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "honeydew"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "kiwi"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "olive"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "pineapple"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "raspberry"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "saguaro"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "strawberry"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "almond"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "apple"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "appricot"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "avocado"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "banana"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "cherry"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "coconut"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "date"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "dragon fruit"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "fig"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "grapefruit"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "kumquat"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "lemon"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "lime"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "mango"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "nectarine"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "orange"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "peach"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "pear"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "pecan"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "persimmon"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "plum"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "star fruit"]
+  },
+  {
+    "name": "fruit smoothie",
+    "ingredients": ["ice", "glass bottle", "milk", "walnut"]
+  },
+  {
+    "name": "chocolate milkshake",
+    "ingredients": ["vanilla ice cream", "chocolate", "milk", "glass bottle"]
+  },
+  {
+    "name": "beer",
+    "ingredients": ["glass bottle", "hops", "all purpose food press", "barley"]
+  },
+  {
+    "name": "wine",
+    "ingredients": ["grape", "grape", "glass bottle", "all purpose food press"]
+  },
+  {
+    "name": "mead",
+    "ingredients": [
+      "glass bottle",
+      "all purpose food press",
+      "honey bottle",
+      "water"
+    ]
+  },
+  {
+    "name": "rum",
+    "ingredients": ["glass bottle", "molasses", "water"]
+  },
+  {
+    "name": "pumpkin spice latte",
+    "ingredients": ["coffee", "pumpkin", "sugar", "paprika", "milk"]
+  },
+  {
+    "name": "beef jerky",
+    "ingredients": ["salt", "salt", "raw beef"]
+  },
+  {
+    "name": "pork jerky",
+    "ingredients": ["salt", "salt", "raw porkchop"]
+  },
+  {
+    "name": "kale chips",
+    "ingredients": ["olive oil", "frying pan", "kale", "salt"]
+  },
+  {
+    "name": "potato chips",
+    "ingredients": ["frying pan", "olive oil", "salt", "potato"]
+  },
+  {
+    "name": "steamed rice",
+    "ingredients": ["cooking pot", "rice", "salt", "water"]
+  },
+  {
+    "name": "french fries",
+    "ingredients": ["cooking pot", "salt", "olive oil", "potato"]
+  },
+  {
+    "name": "sweet potato fries",
+    "ingredients": ["cooking pot", "salt", "olive oil", "sweet potato"]
+  },
+  {
+    "name": "onion rings",
+    "ingredients": ["salt", "cooking pot", "onion", "olive oil", "flour"]
+  },
+  {
+    "name": "doughnut",
+    "ingredients": ["flour", "flour", "sugar", "milk"]
+  },
+  {
+    "name": "cucumber salad",
+    "ingredients": ["bowl", "lettuce", "cucumber", "spinach"]
+  },
+  {
+    "name": "caesar salad",
+    "ingredients": ["olive", "bowl", "lettuce", "garlic", "toast"]
+  },
+  {
+    "name": "leafy salad",
+    "ingredients": ["lettuce", "bowl", "spinach", "kale"]
+  },
+  {
+    "name": "fruit salad",
+    "ingredients": ["banana", "strawberry", "bowl", "grape", "apple"]
+  },
+  {
+    "name": "veggie salad",
+    "ingredients": ["bowl", "corn", "lettuce", "carrot", "cucumber"]
+  },
+  {
+    "name": "pork and beans",
+    "ingredients": ["black bean", "raw porkchop", "bowl"]
+  },
+  {
+    "name": "oatmeal",
+    "ingredients": ["oats", "bowl", "milk"]
+  },
+  {
+    "name": "leek soup",
+    "ingredients": ["milk", "bowl", "potato", "leek"]
+  },
+  {
+    "name": "yoghurt",
+    "ingredients": ["milk", "bowl", "strawberry"]
+  },
+  {
+    "name": "saucy chips",
+    "ingredients": ["potato chips", "bowl", "salsa"]
+  },
+  {
+    "name": "saucy chips",
+    "ingredients": ["potato chips", "bowl", "artichoke dip"]
+  },
+  {
+    "name": "roasted nuts",
+    "ingredients": ["almond", "furnace"]
+  },
+  {
+    "name": "roasted nuts",
+    "ingredients": ["pecan", "furnace"]
+  },
+  {
+    "name": "roasted nuts",
+    "ingredients": ["walnut", "furnace"]
+  },
+  {
+    "name": "trail mix",
+    "ingredients": ["chocolate", "salt", "raisins", "pecan", "pecan", "pecan"]
+  },
+  {
+    "name": "trail mix",
+    "ingredients": [
+      "chocolate",
+      "salt",
+      "raisins",
+      "almond",
+      "almond",
+      "almond"
+    ]
+  },
+  {
+    "name": "trail mix",
+    "ingredients": [
+      "chocolate",
+      "salt",
+      "raisins",
+      "walnut",
+      "walnut",
+      "walnut"
+    ]
+  },
+  {
+    "name": "protein bar",
+    "ingredients": ["sugar", "salt", "chocolate", "caramel", "pecan", "pecan"]
+  },
+  {
+    "name": "protein bar",
+    "ingredients": [
+      "sugar",
+      "salt",
+      "chocolate",
+      "caramel",
+      "almond",
+      "almond"
+    ]
+  },
+  {
+    "name": "protein bar",
+    "ingredients": [
+      "sugar",
+      "salt",
+      "chocolate",
+      "caramel",
+      "walnut",
+      "walnut"
+    ]
+  },
+  {
+    "name": "nougat",
+    "ingredients": ["sugar", "sugar", "egg", "egg", "pecan", "pecan"]
+  },
+  {
+    "name": "nougat",
+    "ingredients": ["sugar", "sugar", "egg", "egg", "almond", "almond"]
+  },
+  {
+    "name": "nougat",
+    "ingredients": ["sugar", "sugar", "egg", "egg", "walnut", "walnut"]
+  },
+  {
+    "name": "scrambled eggs",
+    "ingredients": ["cheese", "frying pan", "egg"]
+  },
+  {
+    "name": "buttered toast",
+    "ingredients": ["butter", "toast"]
+  },
+  {
+    "name": "toast with jam",
+    "ingredients": ["toast", "jam"]
+  },
+  {
+    "name": "ham sandwich",
+    "ingredients": ["cheese", "bread", "cooked porkchop"]
+  },
+  {
+    "name": "peanut butter and jam",
+    "ingredients": ["bread", "peanut butter", "jam"]
+  },
+  {
+    "name": "bacon lettuce tomato sandwich",
+    "ingredients": ["bacon", "lettuce", "tomato", "bread"]
+  },
+  {
+    "name": "grilled cheese",
+    "ingredients": ["bread", "frying pan", "cheese"]
+  },
+  {
+    "name": "cheeseburger",
+    "ingredients": ["cheese", "frying pan", "bread", "raw beef"]
+  },
+  {
+    "name": "cheeseburger",
+    "ingredients": ["cheese", "frying pan", "bread", "tofu"]
+  },
+  {
+    "name": "hamburguer",
+    "ingredients": ["raw beef", "frying pan", "bread"]
+  },
+  {
+    "name": "tofuburguer",
+    "ingredients": ["tofu", "lettuce", "frying pan", "bread", "onion"]
+  },
+  {
+    "name": "pizza",
+    "ingredients": ["dough", "cheese", "frying pan", "tomato"]
+  },
+  {
+    "name": "supreme pizza",
+    "ingredients": [
+      "frying pan",
+      "cheese",
+      "dough",
+      "tomato",
+      "bell pepper",
+      "olive",
+      "raw beef"
+    ]
+  },
+  {
+    "name": "supreme pizza",
+    "ingredients": [
+      "frying pan",
+      "cheese",
+      "dough",
+      "tomato",
+      "bell pepper",
+      "olive",
+      "raw chicken"
+    ]
+  },
+  {
+    "name": "supreme pizza",
+    "ingredients": [
+      "frying pan",
+      "cheese",
+      "dough",
+      "tomato",
+      "bell pepper",
+      "olive",
+      "raw porkchop"
+    ]
+  },
+  {
+    "name": "supreme pizza",
+    "ingredients": [
+      "frying pan",
+      "cheese",
+      "dough",
+      "tomato",
+      "bell pepper",
+      "olive",
+      "tofu"
+    ]
+  },
+  {
+    "name": "cheese pizza",
+    "ingredients": ["tomato", "frying pan", "dough", "cheese", "cheese"]
+  },
+  {
+    "name": "pineapple pepperoni pizza",
+    "ingredients": [
+      "tomato",
+      "dough",
+      "cheese",
+      "pepperoni",
+      "pineapple",
+      "pineapple",
+      "frying pan"
+    ]
+  },
+  {
+    "name": "lemon chicken",
+    "ingredients": [
+      "lemon",
+      "chicken",
+      "cooking pot",
+      "chile pepper",
+      "tomato"
+    ]
+  },
+  {
+    "name": "lemon chicken",
+    "ingredients": ["lemon", "tofu", "cooking pot", "chile pepper", "tomato"]
+  },
+  {
+    "name": "fried chicken",
+    "ingredients": [
+      "olive oil",
+      "salt",
+      "frying pan",
+      "chile pepper",
+      "chicken"
+    ]
+  },
+  {
+    "name": "fried chicken",
+    "ingredients": ["olive oil", "salt", "frying pan", "chile pepper", "tofu"]
+  },
+  {
+    "name": "chicken and noodles",
+    "ingredients": [
+      "chicken",
+      "cooking pot",
+      "olive oil",
+      "noodles",
+      "chile pepper"
+    ]
+  },
+  {
+    "name": "chicken and noodles",
+    "ingredients": [
+      "tofu",
+      "cooking pot",
+      "olive oil",
+      "noodles",
+      "chile pepper"
+    ]
+  },
+  {
+    "name": "chicken and dumplings",
+    "ingredients": ["chicken", "dough", "cooking pot", "chile pepper"]
+  },
+  {
+    "name": "tofu and dumplings",
+    "ingredients": ["tofu", "dough", "cooking pot", "chile pepper"]
+  },
+  {
+    "name": "spaghetti squash",
+    "ingredients": ["chile pepper", "frying pan", "olive oil", "squash"]
+  },
+  {
+    "name": "chicken and rice",
+    "ingredients": ["chile pepper", "rice", "olive oil", "chicken"]
+  },
+  {
+    "name": "chicken and rice",
+    "ingredients": ["chile pepper", "rice", "olive oil", "tofu"]
+  },
+  {
+    "name": "taco",
+    "ingredients": ["lettuce", "cheese", "tortilla", "salsa", "raw beef"]
+  },
+  {
+    "name": "taco",
+    "ingredients": ["lettuce", "cheese", "tortilla", "salsa", "raw chicken"]
+  },
+  {
+    "name": "taco",
+    "ingredients": ["lettuce", "cheese", "tortilla", "salsa", "raw porkchop"]
+  },
+  {
+    "name": "taco",
+    "ingredients": ["lettuce", "cheese", "tortilla", "salsa", "tofu"]
+  },
+  {
+    "name": "sushi",
+    "ingredients": ["rice", "seagrass", "tropical fish"]
+  },
+  {
+    "name": "sushi",
+    "ingredients": ["rice", "seagrass", "pufferfish"]
+  },
+  {
+    "name": "sushi",
+    "ingredients": ["rice", "seagrass", "raw cod"]
+  },
+  {
+    "name": "sushi",
+    "ingredients": ["rice", "seagrass", "raw salmon"]
+  },
+  {
+    "name": "egg roll",
+    "ingredients": ["dough", "lettuce", "egg", "raw beef"]
+  },
+  {
+    "name": "egg roll",
+    "ingredients": ["dough", "lettuce", "egg", "raw chicken"]
+  },
+  {
+    "name": "egg roll",
+    "ingredients": ["dough", "lettuce", "egg", "raw porkchop"]
+  },
+  {
+    "name": "egg roll",
+    "ingredients": ["dough", "lettuce", "egg", "tofu"]
+  },
+  {
+    "name": "cashew chicken",
+    "ingredients": [
+      "carrot",
+      "cabbage",
+      "cashew",
+      "cooked chicken",
+      "soy sauce"
+    ]
+  },
+  {
+    "name": "yam jam",
+    "ingredients": ["yam", "vanilla", "milk", "milk"]
+  },
+  {
+    "name": "banana cream pie",
+    "ingredients": ["sugar", "frying pan", "milk", "vanilla", "banana", "egg"]
+  },
+  {
+    "name": "candy corn",
+    "ingredients": ["corn", "sugar", "sugar"]
+  },
+  {
+    "name": "rum raisin ice cream",
+    "ingredients": ["milk", "sugar", "egg", "cooking pot", "raisins", "rum"]
+  },
+  {
+    "name": "brownies",
+    "ingredients": ["sugar", "milk", "flour", "chocolate", "egg", "frying pan"]
+  },
+  {
+    "name": "snicker doodle",
+    "ingredients": ["flour", "sugar", "cinnamon"]
+  },
+  {
+    "name": "banana nut bread",
+    "ingredients": ["sugar", "flour", "banana", "cinnamon", "almond"]
+  },
+  {
+    "name": "banana nut bread",
+    "ingredients": ["sugar", "flour", "banana", "cinnamon", "pecan"]
+  },
+  {
+    "name": "banana nut bread",
+    "ingredients": ["sugar", "flour", "banana", "cinnamon", "walnut"]
+  },
+  {
+    "name": "candied nuts",
+    "ingredients": ["sugar", "sugar", "almond", "almond"]
+  },
+  {
+    "name": "candied nuts",
+    "ingredients": ["sugar", "sugar", "walnut", "walnut"]
+  },
+  {
+    "name": "candied nuts",
+    "ingredients": ["sugar", "sugar", "pecan", "pecan"]
+  },
+  {
+    "name": "almond brittle",
+    "ingredients": ["sugar", "sugar", "butter", "almond"]
+  },
+  {
+    "name": "raisin oatmeal cookie",
+    "ingredients": ["raisins", "sugar", "flour", "oatmeal"]
+  },
+  {
+    "name": "nutty cookie",
+    "ingredients": ["sugar", "flour", "almond", "almond"]
+  },
+  {
+    "name": "nutty cookie",
+    "ingredients": ["sugar", "flour", "walnut", "walnut"]
+  },
+  {
+    "name": "nutty cookie",
+    "ingredients": ["sugar", "flour", "pecan", "pecan"]
+  },
+  {
+    "name": "burrito",
+    "ingredients": ["rice", "tomato", "dough", "black bean"]
+  },
+  {
+    "name": "tostada",
+    "ingredients": ["black bean", "black bean", "dough", "lettuce", "tomato"]
+  },
+  {
+    "name": "horchata",
+    "ingredients": ["rice", "almond", "lime", "cinnamon", "sugar", "water"]
+  },
+  {
+    "name": "carnitas",
+    "ingredients": ["lettuce", "dough", "frying pan", "onion", "raw porkchop"]
+  },
+  {
+    "name": "fajitas",
+    "ingredients": [
+      "onion",
+      "bell pepper",
+      "frying pan",
+      "tomato",
+      "cheese",
+      "raw beef"
+    ]
+  },
+  {
+    "name": "fajitas",
+    "ingredients": [
+      "onion",
+      "bell pepper",
+      "frying pan",
+      "tomato",
+      "cheese",
+      "raw chicken"
+    ]
+  },
+  {
+    "name": "fajitas",
+    "ingredients": [
+      "onion",
+      "bell pepper",
+      "frying pan",
+      "tomato",
+      "cheese",
+      "raw porkchop"
+    ]
+  },
+  {
+    "name": "fajitas",
+    "ingredients": [
+      "onion",
+      "bell pepper",
+      "frying pan",
+      "tomato",
+      "cheese",
+      "tofu"
+    ]
+  },
+  {
+    "name": "enchilada",
+    "ingredients": ["tomato", "dough", "cheese", "raw beef"]
+  },
+  {
+    "name": "enchilada",
+    "ingredients": ["tomato", "dough", "cheese", "raw chicken"]
+  },
+  {
+    "name": "enchilada",
+    "ingredients": ["tomato", "dough", "cheese", "raw porkchop"]
+  },
+  {
+    "name": "enchilada",
+    "ingredients": ["tomato", "dough", "cheese", "tofu"]
+  },
+  {
+    "name": "churros",
+    "ingredients": ["milk", "sugar", "cinnamon", "flour"]
+  },
+  {
+    "name": "tamales",
+    "ingredients": [
+      "onion",
+      "salt",
+      "flour",
+      "chile pepper",
+      "cooking pot",
+      "corn husk",
+      "raw chicken"
+    ]
+  },
+  {
+    "name": "tres leche cake",
+    "ingredients": [
+      "egg",
+      "sugar",
+      "milk",
+      "vanilla",
+      "flour",
+      "rum",
+      "whipping cream"
+    ]
+  },
+  {
+    "name": "stuffed poblanos",
+    "ingredients": [
+      "chile pepper",
+      "black bean",
+      "corn",
+      "cheese",
+      "rice",
+      "cooking pot",
+      "raw beef"
+    ]
+  },
+  {
+    "name": "stuffed poblanos",
+    "ingredients": [
+      "chile pepper",
+      "black bean",
+      "corn",
+      "cheese",
+      "rice",
+      "cooking pot",
+      "raw chicken"
+    ]
+  },
+  {
+    "name": "stuffed poblanos",
+    "ingredients": [
+      "chile pepper",
+      "black bean",
+      "corn",
+      "cheese",
+      "rice",
+      "cooking pot",
+      "raw porkchop"
+    ]
+  },
+  {
+    "name": "stuffed poblanos",
+    "ingredients": [
+      "chile pepper",
+      "black bean",
+      "corn",
+      "cheese",
+      "rice",
+      "cooking pot",
+      "tofu"
+    ]
+  },
+  {
+    "name": "chili relleno",
+    "ingredients": [
+      "chile pepper",
+      "olive oil",
+      "salt",
+      "flour",
+      "cooking pot",
+      "egg"
+    ]
+  },
+  {
+    "name": "crema",
+    "ingredients": ["lime", "milk", "salt"]
+  },
+  {
+    "name": "refried beans",
+    "ingredients": [
+      "chile pepper",
+      "cheese",
+      "frying pan",
+      "black bean",
+      "black bean"
+    ]
+  },
+  {
+    "name": "chimichanga",
+    "ingredients": ["flour", "cooking pot", "burrito"]
+  },
+  {
+    "name": "quesadilla",
+    "ingredients": [
+      "cheese",
+      "dough",
+      "dough",
+      "frying pan",
+      "avocado",
+      "raw beef"
+    ]
+  },
+  {
+    "name": "quesadilla",
+    "ingredients": [
+      "cheese",
+      "dough",
+      "dough",
+      "frying pan",
+      "avocado",
+      "raw chicken"
+    ]
+  },
+  {
+    "name": "quesadilla",
+    "ingredients": [
+      "cheese",
+      "dough",
+      "dough",
+      "frying pan",
+      "avocado",
+      "raw porkchop"
+    ]
+  },
+  {
+    "name": "quesadilla",
+    "ingredients": [
+      "cheese",
+      "dough",
+      "dough",
+      "frying pan",
+      "avocado",
+      "tofu"
+    ]
+  },
+  {
+    "name": "corn husk",
+    "ingredients": ["corn", "corn", "corn", "corn"]
+  },
+  {
+    "name": "whipping cream",
+    "ingredients": ["milk", "sugar", "vanilla"]
+  },
+  {
+    "name": "shepherd's pie",
+    "ingredients": [
+      "salt",
+      "pepper",
+      "tomato",
+      "frying pan",
+      "potato",
+      "corn",
+      "garlic",
+      "onion",
+      "raw beef"
+    ]
+  },
+  {
+    "name": "shepherd's pie",
+    "ingredients": [
+      "salt",
+      "pepper",
+      "tomato",
+      "frying pan",
+      "potato",
+      "corn",
+      "garlic",
+      "onion",
+      "raw mutton"
+    ]
+  },
+  {
+    "name": "beef wellington",
+    "ingredients": [
+      "onion",
+      "flour",
+      "pepper",
+      "mustard",
+      "frying pan",
+      "brown mushroom",
+      "raw beef",
+      "egg"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "raw cod"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "cooked cod"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "raw salmon"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "cooked salmon"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "puffer fish"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "tropical fish"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "atlantic cod"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "blackfish"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "pacific hailbut"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "atlantic hailbut"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "atlantic herring"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "pink salmon"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "pollock"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "rainbow trout"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": ["salt", "flour", "pepper", "frying pan", "potato", "bayad"]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "boulti"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "capitaine"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "synodontis"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "smallmouth bass"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "bluegill"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "brown trout"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": ["salt", "flour", "pepper", "frying pan", "potato", "carp"]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "catfish"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": ["salt", "flour", "pepper", "frying pan", "potato", "gar"]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "minnow"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "muskellunge"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": ["salt", "flour", "pepper", "frying pan", "potato", "perch"]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "arapaima"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "piranha"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "tambaqui"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "brown shrooma"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "red shrooma"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "red grouper"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "anchovy"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "calamari"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": ["salt", "flour", "pepper", "frying pan", "potato", "clam"]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": ["salt", "flour", "pepper", "frying pan", "potato", "crab"]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "oyster"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": ["salt", "flour", "pepper", "frying pan", "potato", "roe"]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": [
+      "salt",
+      "flour",
+      "pepper",
+      "frying pan",
+      "potato",
+      "shrimp"
+    ]
+  },
+  {
+    "name": "fish and chips",
+    "ingredients": ["salt", "flour", "pepper", "frying pan", "potato", "tuna"]
+  },
+  {
+    "name": "eton mess",
+    "ingredients": [
+      "sugar",
+      "egg",
+      "egg",
+      "strawberry",
+      "strawberry",
+      "whipping cream"
+    ]
+  },
+  {
+    "name": "tea",
+    "ingredients": ["water", "tea leaves"]
+  },
+  {
+    "name": "cornish pasty",
+    "ingredients": [
+      "frying pan",
+      "flour",
+      "raw beef",
+      "potato",
+      "pepper",
+      "onion",
+      "rutabaga"
+    ]
+  },
+  {
+    "name": "scones",
+    "ingredients": [
+      "frying pan",
+      "salt",
+      "flour",
+      "sugar",
+      "egg",
+      "vanilla",
+      "blueberry"
+    ]
+  },
+  {
+    "name": "figgy pudding",
+    "ingredients": ["sugar", "whipping cream", "fig", "egg", "date", "water"]
+  },
+  {
+    "name": "treacle tart",
+    "ingredients": [
+      "bread",
+      "bread",
+      "bread",
+      "lemon",
+      "honey bottle",
+      "whipping cream"
+    ]
+  },
+  {
+    "name": "sticky toffee pudding",
+    "ingredients": [
+      "salt",
+      "sugar",
+      "butter",
+      "vanilla",
+      "egg",
+      "date",
+      "whipping cream",
+      "water"
+    ]
+  },
+  {
+    "name": "trifle",
+    "ingredients": [
+      "strawberry",
+      "bread",
+      "butter",
+      "wine",
+      "egg",
+      "milk",
+      "vanilla"
+    ]
+  },
+  {
+    "name": "ajvar",
+    "ingredients": [
+      "olive oil",
+      "salt",
+      "chile pepper",
+      "bell pepper",
+      "eggplant",
+      "garlic"
+    ]
+  },
+  {
+    "name": "ajvar toast",
+    "ingredients": ["ajvar", "toast"]
+  },
+  {
+    "name": "avocado toast",
+    "ingredients": ["avocado", "toast"]
+  },
+  {
+    "name": "beef stew",
+    "ingredients": ["carrot", "carrot", "raw beef", "flour", "potato"]
+  },
+  {
+    "name": "beef stir fry",
+    "ingredients": [
+      "carrot",
+      "raw beef",
+      "brocoli",
+      "olive oil",
+      "soy sauce",
+      "garlic"
+    ]
+  },
+  {
+    "name": "buttered green beans",
+    "ingredients": ["butter", "salt", "pepper", "green bean", "ginger"]
+  },
+  {
+    "name": "cheesy asparagus",
+    "ingredients": ["cheese", "olive oil", "pepper", "asparagus"]
+  },
+  {
+    "name": "chocolate ice cream",
+    "ingredients": ["egg", "chocolate", "sugar", "milk", "cooking pot"]
+  },
+  {
+    "name": "eggplant parmesan",
+    "ingredients": [
+      "egg",
+      "eggplant",
+      "olive oil",
+      "bread",
+      "cheese",
+      "pepper",
+      "basil"
+    ]
+  },
+  {
+    "name": "grilled eggplant",
+    "ingredients": [
+      "salt",
+      "pepper",
+      "eggplant",
+      "garlic",
+      "olive oil",
+      "paprika"
+    ]
+  },
+  {
+    "name": "kiwi sorbet",
+    "ingredients": ["kiwi", "honey bottle"]
+  },
+  {
+    "name": "lemon coconut bar",
+    "ingredients": ["lemon", "sugar", "egg", "coconut", "butter", "flour"]
+  },
+  {
+    "name": "nether wart stew",
+    "ingredients": ["flour", "warped fungus", "crimson fungus", "nether wart"]
+  },
+  {
+    "name": "peanut butter",
+    "ingredients": [
+      "peanut",
+      "peanut",
+      "peanut",
+      "peanut",
+      "all purpose food press"
+    ]
+  },
+  {
+    "name": "peanut butter with celery",
+    "ingredients": ["peanut butter", "celery"]
+  },
+  {
+    "name": "potato soup",
+    "ingredients": ["potato", "flour", "green onion", "bacon", "water"]
+  },
+  {
+    "name": "ratatouille",
+    "ingredients": [
+      "frying pan",
+      "olive oil",
+      "tomato",
+      "squash",
+      "zucchini",
+      "eggplant",
+      "onion",
+      "bell pepper",
+      "basil"
+    ]
+  },
+  {
+    "name": "bacon",
+    "ingredients": ["raw porkchop", "knife"]
+  },
+  {
+    "name": "rhubarb crisp",
+    "ingredients": [
+      "cinnamon",
+      "salt",
+      "flour",
+      "butter",
+      "sugar",
+      "rhubarb",
+      "oats"
+    ]
+  },
+  {
+    "name": "roasted asparagus",
+    "ingredients": [
+      "olive oil",
+      "frying pan",
+      "salt",
+      "pepper",
+      "garlic",
+      "asparagus"
+    ]
+  },
+  {
+    "name": "roasted radish",
+    "ingredients": [
+      "olive oil",
+      "frying pan",
+      "salt",
+      "pepper",
+      "garlic",
+      "radish"
+    ]
+  },
+  {
+    "name": "roasted squash",
+    "ingredients": [
+      "olive oil",
+      "frying pan",
+      "salt",
+      "pepper",
+      "garlic",
+      "squash"
+    ]
+  },
+  {
+    "name": "roasted turnips",
+    "ingredients": [
+      "olive oil",
+      "frying pan",
+      "salt",
+      "pepper",
+      "garlic",
+      "turnip"
+    ]
+  },
+  {
+    "name": "steamed brocoli",
+    "ingredients": ["brocoli", "brocoli", "water"]
+  },
+  {
+    "name": "steamed greeen beans",
+    "ingredients": ["greeen bean", "greeen bean", "water"]
+  },
+  {
+    "name": "stir fry",
+    "ingredients": [
+      "garlic",
+      "carrot",
+      "olive oil",
+      "bell pepper",
+      "brocoli",
+      "green onion"
+    ]
+  },
+  {
+    "name": "stuffed artichoke",
+    "ingredients": [
+      "bread",
+      "cheese",
+      "olive oil",
+      "salt",
+      "pepper",
+      "lemon",
+      "frying pan",
+      "artichoke"
+    ]
+  },
+  {
+    "name": "toast sandwich",
+    "ingredients": ["bread", "bread", "toast"]
+  },
+  {
+    "name": "roasted pumpkin seeds",
+    "ingredients": ["frying pan", "salt", "pepper", "pumpkin seeds"]
+  },
+  {
+    "name": "roasted sunflower seeds",
+    "ingredients": ["frying pan", "salt", "pepper", "sunflower"]
+  },
+  {
+    "name": "pumpkin bar",
+    "ingredients": [
+      "cinnamon",
+      "vanilla",
+      "salt",
+      "flour",
+      "sugar",
+      "egg",
+      "pumpkin",
+      "pumpkin",
+      "butter"
+    ]
+  },
+  {
+    "name": "corn bread",
+    "ingredients": ["corn", "corn", "corn"]
+  },
+  {
+    "name": "pumpkin soup",
+    "ingredients": [
+      "garlic",
+      "onion",
+      "pepper",
+      "salt",
+      "pumpkin",
+      "pumpkin",
+      "cooking pot"
+    ]
+  },
+  {
+    "name": "meringue",
+    "ingredients": ["vanilla", "sugar", "salt", "egg", "egg", "egg"]
+  },
+  {
+    "name": "cabbage roll",
+    "ingredients": [
+      "onion",
+      "rice",
+      "salt",
+      "frying pan",
+      "cabbage",
+      "cabbage",
+      "cabbage",
+      "tofu",
+      "tofu"
+    ]
+  },
+  {
+    "name": "cabbage roll",
+    "ingredients": [
+      "onion",
+      "rice",
+      "salt",
+      "frying pan",
+      "cabbage",
+      "cabbage",
+      "cabbage",
+      "raw beef",
+      "raw beef"
+    ]
+  },
+  {
+    "name": "borscht",
+    "ingredients": [
+      "carrot",
+      "potato",
+      "onion",
+      "tomato",
+      "cabbage",
+      "cooking pot",
+      "garlic",
+      "beetroot",
+      "water"
+    ]
+  },
+  {
+    "name": "goulash",
+    "ingredients": [
+      "cabbage",
+      "cabbage",
+      "onion",
+      "tomato",
+      "frying pan",
+      "raw beef",
+      "raw beef",
+      "raw porkchop",
+      "raw porkchop"
+    ]
+  },
+  {
+    "name": "goulash",
+    "ingredients": [
+      "cabbage",
+      "cabbage",
+      "onion",
+      "tomato",
+      "frying pan",
+      "tofu",
+      "tofu",
+      "tofu",
+      "tofu"
+    ]
+  },
+  {
+    "name": "beetroot salad",
+    "ingredients": [
+      "beetroot",
+      "beetroot",
+      "beetroot",
+      "lettuce",
+      "cheese",
+      "lemon",
+      "cooking pot"
+    ]
+  },
+  {
+    "name": "candied kumquats",
+    "ingredients": [
+      "vanilla",
+      "honey bottle",
+      "kumquat",
+      "kumquat",
+      "kumquat",
+      "kumquat",
+      "kumquat",
+      "kumquat",
+      "kumquat"
+    ]
+  },
+  {
+    "name": "steamed crab",
+    "ingredients": ["crab", "cooking pot", "water"]
+  },
+  {
+    "name": "deep fried shrimp",
+    "ingredients": ["bread", "egg", "frying pan", "shrimp", "shrimp", "shrimp"]
+  },
+  {
+    "name": "tuna roll",
+    "ingredients": ["onion", "rice", "tuna", "dried kelp"]
+  },
+  {
+    "name": "fried calamari",
+    "ingredients": [
+      "olive oil",
+      "sea lettuce",
+      "frying pan",
+      "flour",
+      "lemon",
+      "calamari"
+    ]
+  },
+  {
+    "name": "crab legs",
+    "ingredients": [
+      "butter",
+      "garlic",
+      "salt",
+      "pepper",
+      "frying pan",
+      "crab",
+      "crab"
+    ]
+  },
+  {
+    "name": "steamed clams",
+    "ingredients": [
+      "frying pan",
+      "butter",
+      "garlic",
+      "salt",
+      "pepper",
+      "clam",
+      "clam"
+    ]
+  },
+  {
+    "name": "grilled oysters",
+    "ingredients": [
+      "cheese",
+      "lemon",
+      "garlic",
+      "salt",
+      "frying pan",
+      "oyster",
+      "oyster"
+    ]
+  },
+  {
+    "name": "anchovy pizza",
+    "ingredients": ["cheese", "dough", "frying pan", "tomato", "anchovy"]
+  },
+  {
+    "name": "mashed potatoes",
+    "ingredients": ["milk", "potato", "salt", "mortar and pestle"]
+  },
+  {
+    "name": "mashed potatoes",
+    "ingredients": ["milk", "sweet potato", "salt", "mortar and pestle"]
+  },
+  {
+    "name": "baked crepes",
+    "ingredients": [
+      "egg",
+      "egg",
+      "flour",
+      "milk",
+      "cheese",
+      "frying pan",
+      "spinach"
+    ]
+  },
+  {
+    "name": "cinnamon roll",
+    "ingredients": [
+      "milk",
+      "dough",
+      "egg",
+      "butter",
+      "salt",
+      "sugar",
+      "cinnamon",
+      "frying pan",
+      "whipping cream"
+    ]
+  },
+  {
+    "name": "croque madame",
+    "ingredients": [
+      "egg",
+      "bread",
+      "flour",
+      "cheese",
+      "butter",
+      "frying pan",
+      "tofu"
+    ]
+  },
+  {
+    "name": "croque madame",
+    "ingredients": [
+      "egg",
+      "bread",
+      "flour",
+      "cheese",
+      "butter",
+      "frying pan",
+      "raw porkchop"
+    ]
+  },
+  {
+    "name": "croque monsieur",
+    "ingredients": ["frying pan", "flour", "bread", "cheese", "butter", "tofu"]
+  },
+  {
+    "name": "croque monsieur",
+    "ingredients": [
+      "frying pan",
+      "flour",
+      "bread",
+      "cheese",
+      "butter",
+      "raw porkchop"
+    ]
+  },
+  {
+    "name": "dauphine potatoes",
+    "ingredients": [
+      "frying pan",
+      "milk",
+      "butter",
+      "flour",
+      "olive oil",
+      "water"
+    ]
+  },
+  {
+    "name": "ground pork",
+    "ingredients": ["tofu", "all purpose food press"]
+  },
+  {
+    "name": "ground pork",
+    "ingredients": ["raw porkchop", "all purpose food press"]
+  },
+  {
+    "name": "hashed browns",
+    "ingredients": ["frying pan", "olive oil", "knife", "potato"]
+  },
+  {
+    "name": "hashed browns",
+    "ingredients": ["frying pan", "olive oil", "knife", "sweet potato"]
+  },
+  {
+    "name": "macaron",
+    "ingredients": ["sugar", "sugar", "egg", "frying pan", "almond", "almond"]
+  },
+  {
+    "name": "quiche",
+    "ingredients": ["frying pan", "egg", "flour", "milk", "onion", "spinach"]
+  },
+  {
+    "name": "sausage",
+    "ingredients": ["paprika", "salt", "ground pork"]
+  },
+  {
+    "name": "sunny side up eggs",
+    "ingredients": ["egg", "egg", "frying pan"]
+  },
+  {
+    "name": "sweet crepes",
+    "ingredients": ["jam", "milk", "sugar", "frying pan", "flour", "egg"]
+  },
+  {
+    "name": "the big breakfast",
+    "ingredients": [
+      "egg",
+      "bacon",
+      "hashed browns",
+      "hashed browns",
+      "frying pan",
+      "toast",
+      "sausage",
+      "baked beans"
+    ]
+  }
+]

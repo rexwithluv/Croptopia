@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de recetas</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.1/css/bulma.min.css">
+</head>
+
+<body>
+    <section class="hero">
+        <div class="hero-body has-text-centered">
+            <h1 class="title">Recipe sercher</h1>
+                <h2 class="subtitle">Made by @rexwithluv</h2>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <form action="" method="post">
+                <div class="field">
+                    <label for="ingredients" class="label">Ingredientes (separados por comas):</label>
+                    <div class="control">
+                        <input type="text" class="input" name="ingredients" placeholder="tomato, salt, furnace">
+                    </div>
+                </div>
+                <div class="control">
+                    <button class="button is-primary" type="submit">Buscar</button>
+                </div>
+            </form>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            {% if results %}
+            <h2 class="title is-2">Resultados de búsqueda</h2>
+            <ul>
+                {% for recipe in results %}
+                <li>{{ recipe["name"] }} - Ingredientes: {{ recipe["ingredients"] | join(", ") }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </div>
+
+    </section>
+
+</body>
+
+</html>

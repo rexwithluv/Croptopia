@@ -1,0 +1,10 @@
+services:
+  flask:
+    build: .
+    container_name: croptopia-flask
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./:/app
+    environment:
+      - FLASK_ENV=development
