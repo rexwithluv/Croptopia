@@ -1,49 +1,66 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" data-theme="light">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Buscador de recetas</title>
+    <title>Recipe searcher</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.1/css/bulma.min.css">
 </head>
 
 <body>
-    <section class="hero">
+    <div class="hero">
         <div class="hero-body has-text-centered">
             <h1 class="title">Recipe sercher</h1>
-                <h2 class="subtitle">Made by @rexwithluv</h2>
+            <h2 class="subtitle">Made by @rexwithluv</h2>
         </div>
-    </section>
+    </div>
 
-    <section class="section">
-        <div class="container">
+    <div class="box mx-6 p-6 has-background-success is-rounded">
+        <div class="container has-text-centered">
             <form action="" method="post">
                 <div class="field">
-                    <label for="ingredients" class="label">Ingredientes (separados por comas):</label>
+                    <label for="ingredients" class="label title is-5">Ingredients (comma separated):</label>
                     <div class="control">
-                        <input type="text" class="input" name="ingredients" placeholder="tomato, salt, furnace">
+                        <input type="text" class="input" name="ingredients"
+                            placeholder="Chile pepper, olive oil, salt...">
                     </div>
                 </div>
                 <div class="control">
-                    <button class="button is-primary" type="submit">Buscar</button>
+                    <button class="button is-link" type="submit">Buscar</button>
                 </div>
             </form>
-    </section>
-
-    <section class="section">
-        <div class="container">
-            {% if results %}
-            <h2 class="title is-2">Resultados de búsqueda</h2>
-            <ul>
-                {% for recipe in results %}
-                <li>{{ recipe["name"] }} - Ingredientes: {{ recipe["ingredients"] | join(", ") }}</li>
-                {% endfor %}
-            </ul>
-            {% endif %}
         </div>
+    </div>
 
-    </section>
+
+    <div class="section has-text-centered has-background-success">
+        {% if results %}
+        <h2 class="title is-2">Search results</h2>
+        <ul>
+            {% for recipe in results %}
+            <li>
+                {{ ("<strong>" + recipe["name"].capitalize() + "</strong>") | safe }} - Ingredientes:
+                {% set all_ingredients = [] %}
+
+                {% for ingredient in recipe["ingredients"] %}
+                {% if ingredient in user_ingredients %}
+                {% set _ = all_ingredients.append("<b>" + ingredient + "</b>") %}
+                {% else %}
+                {% set _ = all_ingredients.append(ingredient) %}
+                {% endif %}
+                {% endfor %}
+                {{ ", ".join(all_ingredients) | safe }}
+            </li>
+            {% endfor %}
+        </ul>
+
+        {% else %}
+        <h2 class="title is-2">Try searching for something!</h2>
+
+        {% endif %}
+
+    </div>
 
 </body>
 
