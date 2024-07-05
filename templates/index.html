@@ -34,32 +34,40 @@
     </div>
 
 
-    <div class="section has-text-centered has-background-success">
-        {% if results %}
-        <h2 class="title is-2">Search results</h2>
-        <ul>
-            {% for recipe in results %}
-            <li>
-                {{ ("<strong>" + recipe["name"].capitalize() + "</strong>") | safe }} - Ingredientes:
-                {% set all_ingredients = [] %}
+    <div class="section has-background-success has-text-centered">
 
-                {% for ingredient in recipe["ingredients"] %}
-                {% if ingredient in user_ingredients %}
-                {% set _ = all_ingredients.append("<b>" + ingredient + "</b>") %}
-                {% else %}
-                {% set _ = all_ingredients.append(ingredient) %}
-                {% endif %}
+        {% if recipes %}
+        <h2 class="title is-2">Search results</h2>
+
+        <div class="fixed-grid has-2-cols">
+            <div class="grid">
+
+                {% for recipe in recipes %}
+                <div class="cell">
+                    {{ ("<strong>" + recipe["name"].capitalize() + "</strong>") | safe }}
+                </div>
+
+                <div class="cell">
+                    <ul>
+                        {% for ingredient in recipe["ingredients"] %}
+
+                        <li>
+                            <img src="static/images/{{ ingredient.replace(' ', '-') }}.png" width="32px"
+                                alt="{{ ingredient.capitalize() }}" title="{{ ingredient.capitalize() }}">
+                        </li>
+
+                        {% endfor %}
+                    </ul>
+                </div>
                 {% endfor %}
-                {{ ", ".join(all_ingredients) | safe }}
-            </li>
-            {% endfor %}
-        </ul>
+
+            </div>
+        </div>
 
         {% else %}
-        <h2 class="title is-2">Try searching for something!</h2>
+        <h2 class="title is-2">Try searching something!</h2>
 
         {% endif %}
-
     </div>
 
 </body>

@@ -18,7 +18,7 @@ def index():
             if all(ingredient in recipe["ingredients"] for ingredient in user_ingredients):
                 results.append(recipe)
 
-        return flask.render_template("index.html", results=results, user_ingredients=user_ingredients)
+        return flask.render_template("index.html", recipes=results, user_ingredients=user_ingredients)
 
     return flask.render_template("index.html")
 
