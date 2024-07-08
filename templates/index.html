@@ -44,7 +44,9 @@
 
                 {% for recipe in recipes %}
                 <div class="cell">
-                    {{ ("<strong>" + recipe["name"].capitalize() + "</strong>") | safe }}
+                    {{ ("<strong>" + recipe["name"].capitalize() + "</strong>") | safe }} &nbsp;
+                    <img src="static/images/{{ recipe['name'].replace(' ', '-') }}.png" width="32px"
+                        alt="{{ recipe['name'].capitalize() }}" title="{{ recipe['name'].capitalize() }}">
                 </div>
 
                 <div class="cell">
