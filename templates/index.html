@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Recipe searcher</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.1/css/bulma.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
 </head>
 
 <body>
@@ -39,32 +40,40 @@
         {% if recipes %}
         <h2 class="title is-2">Search results</h2>
 
+
+
+        {% for recipe in recipes %}
         <div class="fixed-grid has-2-cols">
             <div class="grid">
 
-                {% for recipe in recipes %}
-                <div class="cell">
-                    {{ ("<strong>" + recipe["name"].capitalize() + "</strong>") | safe }} &nbsp;
+                <div class="cell is-flex is-justify-content-center is-align-items-center">
+                    <p>{{ ("<strong>" + recipe["name"].capitalize() + "</strong>") | safe }} &nbsp; </p>
                     <img src="static/images/{{ recipe['name'].replace(' ', '-') }}.png" width="32px"
                         alt="{{ recipe['name'].capitalize() }}" title="{{ recipe['name'].capitalize() }}">
                 </div>
 
-                <div class="cell">
-                    <ul>
-                        {% for ingredient in recipe["ingredients"] %}
 
-                        <li>
-                            <img src="static/images/{{ ingredient.replace(' ', '-') }}.png" width="32px"
-                                alt="{{ ingredient.capitalize() }}" title="{{ ingredient.capitalize() }}">
-                        </li>
+                <div class="cell ">
+                    <div class="fixed-grid has-3-cols">
+                        <div class="grid ingredients-grid">
 
-                        {% endfor %}
-                    </ul>
+                            {% for ingredient in recipe["ingredients"] %}
+                            <div class="cell ingredient-cell">
+                                <p>{{ ingredient.capitalize() }} </p>
+                                <img src="static/images/{{ ingredient.replace(' ', '-') }}.png" width="32px"
+                                    alt="{{ ingredient.capitalize() }}" title="{{ ingredient.capitalize() }}">
+                            </div>
+                            {% endfor %}
+
+                        </div>
+                    </div>
                 </div>
-                {% endfor %}
 
             </div>
         </div>
+        {% endfor %}
+
+
 
         {% else %}
         <h2 class="title is-2">Try searching something!</h2>
